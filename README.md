@@ -2,13 +2,14 @@
 
 ## For belonging and landscape regeneration
 
+### This document outlines the design pathway, based on Permaculture Design Principles, for developing a network of sustainable and compassionate living sanctuaries. These sanctuaries are physical spaces which will act as a place of inspiration for all who are looking to learn and live into their own self-sustainable systems, with nature and with a small ecological footprint.
+
 <details>  
 <summary>Introduction</summary>  
   Our goal is to promote living in alignment with one's true purpose and the natural world by (dharma):
-  <details>  
+ 
 <summary>1.  Fostering a community where people can learn and grow together</summary>  
-   
-  <details>  
+    
 <summary>2.  Creating compassionate and regenerative living pathways rooted in deep ecology and harmony with nature</summary>  
   
  
@@ -16,7 +17,104 @@
   
 </details>
 
-<details>  
+
+## Permaculture Ethics and Principles 
+from “Permaculture. A Designers’ Manual.” by Bill Mollison.
+
+## The ethical basis of permaculture
+- Care for the Earth
+- Care for people
+- Governance of abundance
+
+<details> <summary> Permaculture Principles </summary>
+<summary>	• Work with nature rather than against it– assist rather than impede the natural elements and succession. </summary>
+<summary>	• The problem is the solution– it is how we see things that make them advantageous or not. </summary>
+<summary>	• Make the least change for the greatest possible effect– emphasis on the placement of design elements where they can assist each other in function and energy recycling. </summary>
+<summary>	• The yield of a system is theoretically unlimited– the only limitation is that of the information and imagination of the designer </summary>
+<summary>	• Everything gardens– notice patterns of plants and animals and you will find allies in your efforts to sustain yourself and other species </summary>
+</details>
+<details> <summary> Sanctuary Pathways and Integrated Design Analysis </summary>
+<details>
+<summary> Sanctuary design pathways include: </summary>
+
+
+- Interpretive Centre / Workshop
+Culture, and natural ecology knowledge bank
+- Art and storytelling residency
+- Youth ranger program
+- Applied learning workshops
+- Afterschool programs
+- Permaculture training
+- Nature-based wellness 
+- Intergenerational belonging
+- Raw material processing
+- Food production system
+- Intercropping / syntropic agroforestry system
+- Vegetables, fruits, botanicals, herbs, spices, flowers
+- Nursery and Experiment Lab
+- Greenhouse
+- Vegetable and fruit nursery
+- Soil and microclimate lab
+- Integrated livestock system
+	- Bees
+	- Chickens
+	- Cows
+- Earth-Homestay 
+- Stabilised rammed earth building
+- Organic waste composting (closed-loop recycling system)
+- Rainwater harvesting system 
+- Plant to plate café
+
+</details>
+<details>
+<summary>Design and Function of the Sanctuary Pathways</summary>
+
+- Interpretive Centre: 
+	- The interpretive centre will be designed to improve the understanding and stewardship of local landscapes. 
+	- The centre will allow people who are interested in living self-sustainably to live and engage with local communities on regenerative initiatives. Each interpretive centre would be part of the larger network of sanctuaries which will allow people from different regenerative initiatives to share and foster bioregional learning. Elements in the design of the interpretive centre at the sanctuary will include:
+- Culture, and natural ecology knowledge bank:
+- Art and storytelling residency
+- Youth ranger program
+- Applied learning workshops: 
+	- The interpretive centre will host workshops that will act as the educational/ applied learning pathways for the people from the communities to engage with the sanctuary. 
+	- The topics of the workshop will vary depending on the local context the sanctuary is situated in. 
+	- The goals of the workshops is to empower individuals with knowledge and skills that will enable them to actively participate in and contribute to the long-term ecological stewardship of their landscapes. 
+- Afterschool programs: 
+	- new gardening and growing techniques
+	- sports 
+	- Permaculture design workshops
+	- Nature-based wellness 
+	- Intergenerational belonging
+	- Raw material processing
+- Food production system: 
+	- The regenerative food production system will be inspired by the patterns of nature and local climates. 
+	- Crop calendar will be maintained for each of the sanctuary to ensure the maximum food production throughout the year on the available land. 
+	- The varieties of fruits and vegetables chosen to grow will be suitable for the local climate and additional varieties can be trailed for suitability at the microclimate labs as soil improvs and demand emerges. 
+- Intercropping / syntropic agroforestry system:
+	- Vegetables, fruits, botanicals, herbs, spices, flowers
+	- Nursery and Experiment Lab
+	- Greenhouse
+	- Vegetable and fruit nursery
+- Soil and microclimate lab: 
+	- Hub to experiment on new tech from ReFi, Climate and other sustainability brands
+
+- Integrated livestock system:
+	- Bees
+	- Chickens
+	- Cows
+
+- Earth-Homestay: 
+	- The Earth-Homestay will be designed based on permaculture design principles. 
+	- The living space will be built with locally source materials. 
+	- Stabilised rammed earth building
+	- Plant to plate café
+</details>
+</details>
+
+### To weave clusters of local sanctuaries together in their respective bioregion, one sanctuary will act as a “Bioregional Learning Centre.”
+
+
+<details>
 <summary>Kangra Soil Lab and Compost Brewery</summary>
 
 ## Soil Test Guide:
@@ -73,7 +171,7 @@ When selecting the place to conduct your test, it is important to pick a sample 
 **1) Anaerobic conditions and pollution** 
 
 **The smell test:** 
-
+w
 1\.Take a handful of soil from the site. 
 
 2\.Thoroughly smell the handful of soil, does it have a: 
